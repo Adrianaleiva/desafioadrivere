@@ -1,0 +1,25 @@
+
+
+header {
+  background-color: PeachPuff;
+  color: DarkOliveGreen;
+  width:100vw;
+  height:10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+    background-color: DarkGoldenRod;
+}
+
+.subtitulo {
+   color: DarkRed;
+   font-weight: bold;
+   text-align: center;
+   position: relative;
+   top: 30px;
+   right: 400px;
+
+}
